@@ -2,9 +2,9 @@
 # 42Cursus
 
 Aquí puedes encontrar mis proyectos de mi 42Cursus. Estos pueden ser modificados a lo largo del tiempo para implementar, corregir errores o mejorar el código.
-## Projects
+## Proyectos
 
-| **Name** | **Descripción** |**Subject ![es](logos/esp_mini.png)** | **Subject ![es](logos/gb_mini.png)**| **Score**|
+| **Nombre** | **Descripción** |**Enunciado ![es](logos/esp_mini.png)** | **Enunciado ![es](logos/gb_mini.png)**| **Puntuación**|
 |:----------:|:-----------:|:---------------------------------------:|:-------------------------------------:|:----------:|
 |[Libft](https://github.com/dgallop/libft)| Este proyecto es sobre crear una librería en C. |[![es](logos/esp.png)](subjects/es.Libft.pdf)|[![eng](logos/gb.png)](subjects/en.Libft.pdf)|<img src="https://badge42.herokuapp.com/api/project/dgallo-p/Libft">|
 |[Printf](https://github.com/dgallop/printf)| Recrear la función prinft de stdio.h para evitar el uso de ft_putnbr() y ft_putstr() |[![es](logos/esp.png)](subjects/es.ft_printf.pdf)|[![eng](logos/gb.png)](subjects/en.ft_printf.pdf)|<img src="https://badge42.herokuapp.com/api/project/dgallo-p/ft_printf">|
